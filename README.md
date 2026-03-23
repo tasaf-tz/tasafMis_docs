@@ -1,8 +1,8 @@
 [![Documentation Status](https://readthedocs.org/projects/openimis/badge/?version=latest)](https://openimis.readthedocs.io/en/latest/?badge=latest)
 
-# openIMIS Documentation
+# tasafMIS Documentation
 
-This repository contains the user documentation of openIMIS, please refer to the [openIMIS Wiki](https://openimis.org/wiki) for further documentation like installation guides, functional specification and import tools templates.
+This repository contains the user documentation of tasafMIS (OpeniMis customization), please refer to the [openIMIS Wiki](https://openimis.org/wiki) for further documentation like installation guides, functional specification and import tools templates.
 
 ## Contribution
 
