@@ -3,10 +3,10 @@ Login
 
 To access the TASAF Social Protection Registry system, users must have a valid Login Name and Password. These credentials are created and provided by the System Administrator or another authorized administrator responsible for user management.
 
-Open a web browser and type the URL of the TASAF MIS / Social Protection Registry system in the browser address bar. The login page will be displayed (:numref:`login interface`).
+Open a web browser and type the URL of the TASAF MIS / Social Protection Registry system in the browser address bar. The login page will be displayed (:numref:`login_interface`).
 
 .. _image1:
-.. figure:: /img/user_manual/login/login interface.png
+.. figure:: /img/user_manual/login/login_interface.png
   :align: center
 
   `User Login`
