@@ -14,7 +14,7 @@ Open a web browser and type the URL of the TASAF MIS / Social Protection Registr
 Enter the provided Login Name and Password, then click the **Login** button. If the credentials are correct, the system will redirect the user to the Home Page (:numref:`home`).
 
 .. _home_page:
-.. figure:: /img/user_manual/home.png
+.. figure:: /img/user_manual/login/home.png
   :align: center
 
   `Home Page`
